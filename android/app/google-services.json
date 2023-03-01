@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "121503759633",
+    "project_id": "games-and-photo-editor-app",
+    "storage_bucket": "games-and-photo-editor-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121503759633:android:dabc2dec462cc697abe0b0",
+        "android_client_info": {
+          "package_name": "com.example.am_proiect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121503759633-rlt8fluh3ubhbvoau8mq4fjaeh01f2os.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-jeP2d4iEpLKUbrYJyzdKnGjyBKU9MsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121503759633-rlt8fluh3ubhbvoau8mq4fjaeh01f2os.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
